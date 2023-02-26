@@ -5,7 +5,7 @@
  * @link   https://afaan.dev/pulse
  */
 
-import { createMonitor, createPulse } from "./pulse";
+import { createMonitor, createPulse } from "@afaanbilal/pulse";
 
 const [count, setCount] = createPulse(0);
 
