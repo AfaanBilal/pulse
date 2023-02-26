@@ -6,7 +6,7 @@ Author: **[Afaan Bilal](https://afaan.dev)**
 Link: **[Pulse Demo](https://afaan.dev/pulse)**
 
 ## Introduction
-**Pulse** is an experiment in reactivity.
+**Pulse** is an experiment in reactivity - a demo of [pulsejs](https://github.com/AfaanBilal/pulsejs).
 
 ## Run
 
